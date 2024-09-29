@@ -15,5 +15,5 @@ Repositório com a resolução do teste técnico para vaga de estágio em backen
   - questao01.py a questao06.py: Respostas das questões, em arquivos separados.
   - comarcas_info.csv: Arquivo csv gerado como resultado da solução da questão 6 do desafio.
   - comarcas_info.json: Arquivo json gerado como resultado da solução da questão 6 do desafio.
-  - analises_comarcas.ipynb: Notebook jupyter que criado para carregar o arquivo 'comarcas_info.csv' em um dataframe, usando a biblioteca pandas, para demonstrar possíveis consultas a serem realizadas.
+  - analises_comarcas.ipynb: Notebook jupyter criado para carregar o arquivo 'comarcas_info.csv' em um dataframe usando a biblioteca pandas e demonstrar algumas possíveis consultas a serem realizadas.
 
